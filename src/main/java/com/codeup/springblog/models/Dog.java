@@ -47,4 +47,6 @@ public class Dog {
         return resideState;
     }
 
+
+
 }
