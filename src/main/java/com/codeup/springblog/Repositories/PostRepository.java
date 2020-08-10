@@ -1,4 +1,4 @@
-package com.codeup.springblog.Controllers.Repositories;
+package com.codeup.springblog.Repositories;
 
 import com.codeup.springblog.models.Post;
 import org.springframework.data.jpa.repository.JpaRepository;
